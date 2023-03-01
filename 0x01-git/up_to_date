@@ -1,1 +1,3 @@
-touch
+cd /path/to/your/local/repository
+git fetch origin master
+git merge origin/master
